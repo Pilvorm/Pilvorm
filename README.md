@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-My name is **Daniel Emerald** and I am a student from Binus University majoring in Computer Science and I'm also a member of Web Development division of a student association called HIMTI.
+My name is **Daniel Emerald** and I am a student from Binus University majoring in Computer Science and I'm also a member of Web Development division of a student association called [HIMTI](https://ofog.himti.or.id/).
 
 ### :hammer: I’m currently working on...
 - Focusing on front-end web development — I am currently fulfilling [freeCodeCamp](https://www.freecodecamp.org/learn/) certifications and targeting to take more certifications.
