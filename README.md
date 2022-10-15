@@ -19,7 +19,7 @@ My name is **Daniel Emerald** and I am a student from Binus University majoring 
   - Framer
 
 ### 👯 I’m looking to collaborate on ...
-- More projects related to websites would improve my knowledge and skill. Lets work together!
+- More projects related to websites and design would improve my knowledge and skill. Lets work together!
 
 ### 📫 How to reach me: ...
 - Instagram: @danielemrld
