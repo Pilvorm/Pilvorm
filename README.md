@@ -23,6 +23,7 @@ My name is **Daniel Emerald Sumarly** and I am a student from Binus University m
 
 ### 👯 I’m looking to collaborate on ...
 - More projects related to web development and app designing would improve my knowledge and skill. Let's work together!
+- Also opent to work for internship.
 
 ### 📫 How to reach me: ...
 - Instagram: @danielemrld
