@@ -3,25 +3,26 @@
 My name is **Daniel Emerald** and I am a student from Binus University majoring in Computer Science and I'm also a member of Web Development division of a student association called [HIMTI](https://ofog.himti.or.id/).
 
 ### :hammer: I’m currently working on...
-- Focusing on front-end web development — I am currently fulfilling [freeCodeCamp](https://www.freecodecamp.org/learn/) certifications and targeting to take more certifications.
+- Focusing on front-end web development — I am currently fulfilling [freeCodeCamp](https://www.freecodecamp.org/learn/) certifications and targeting to take more.
 
-- See my work in the repositories and [CodePen](https://codepen.io/collection/bNRLWQ). Most of my existing projects are in development or "under renovation" and they will be added soon to the collection!
+- See my work in the repositories and [CodePen](https://codepen.io/collection/bNRLWQ). Most of my existing projects are in development or "under renovation" and they will be added to the collection soon!
 
 - See my app designs [here](https://www.figma.com/@danielemerald).
 
 - HIMTI is holding a brand new event titled HIMFEST and I'm grateful to be appointed as the Web Development Division coordinator. The project is quite challenging so wish us luck!
 
 ### :books: I’m currently learning ...
-- Currently expanding my knowledge on front-end libraries:
+- My main skills and the libraries I use:
+  - HTML, CSS, JS
+  - Sass, Bootstrap, Tailwind
   - jQuery
-  - Sass
-  - Bootstrap
-  - Tailwind
+  
+- Currently expanding my knowledge on:
   - React & Redux
-  - Framer
+  - PHP & Laravel
 
 ### 👯 I’m looking to collaborate on ...
-- More projects related to web developing and app designing would improve my knowledge and skill. Lets work together!
+- More projects related to web development and app designing would improve my knowledge and skill. Let's work together!
 
 ### 📫 How to reach me: ...
 - Instagram: @danielemrld
