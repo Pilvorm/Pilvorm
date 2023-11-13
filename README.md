@@ -14,7 +14,7 @@ My name is **Daniel Emerald Sumarly** and I am a student from Binus University m
 ### :books: I’m currently learning ...
 - My main skills and the libraries I use:
   - HTML, CSS, JS
-  - SCSS, Tailwin
+  - SCSS, Tailwind
   - ReactJS, Next.js
   
 - Currently expanding my knowledge on:
