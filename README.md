@@ -3,13 +3,13 @@
 My name is **Daniel Emerald Sumarly** and I am a student from Binus University majoring in Computer Science and I'm also a member of Web Development division of a student association called [HIMTI](https://ofog.himti.or.id/).
 
 ### :hammer: I’m currently working on...
-- Focusing on front-end web development — I am currently fulfilling [freeCodeCamp](https://www.freecodecamp.org/learn/) certifications and targeting to take more.
+- Currently working as an intern at PT Kalbe Farma Tbk. as a front-end web developer
 
-- See my work in the repositories and [CodePen](https://codepen.io/collection/bNRLWQ).
+- Fulfilling [freeCodeCamp](https://www.freecodecamp.org/learn/) certifications and targeting to take more.
+
+- See my portfolio [here](https://codepen.io/collection/bNRLWQ).
 
 - See my app designs [here](https://www.figma.com/@danielemerald).
-
-- Currently working as an intern at PT Kalbe Farma Tbk. as a front-end web developer
 
 ### :books: I’m currently learning ...
 - My main skills and the libraries I use:
