@@ -16,10 +16,6 @@ My name is **Daniel Emerald Sumarly** and I am a student from Binus University m
   - HTML, CSS, JS
   - SCSS, Tailwind
   - ReactJS, Next.js
-  
-- Currently expanding my knowledge on:
-  - Next.js
-  - Postman
 
 ### 👯 I’m looking to collaborate on ...
 - More projects related to web development and app designing would improve my knowledge and skill. Let's work together!
