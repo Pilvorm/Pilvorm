@@ -7,7 +7,7 @@ My name is **Daniel Emerald Sumarly** and I am a student from Binus University m
 
 - Fulfilling [freeCodeCamp](https://www.freecodecamp.org/learn/) certifications and targeting to take more.
 
-- See my portfolio [here](https://codepen.io/collection/bNRLWQ).
+- See my portfolio [here](https://danielsumarly.vercel.app/).
 
 - See my app designs [here](https://www.figma.com/@danielemerald).
 
