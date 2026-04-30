@@ -14,8 +14,8 @@ My name is **Daniel Emerald Sumarly** and I am a student from Binus University m
   - ReactJS, Next.js
 
 ### 👯 I’m looking to collaborate on ...
-- More projects related to web development and app designing would improve my knowledge and skill. Let's work together!
-- Also opent to work for internship.
+- More projects related to web development and app design would improve my knowledge and skills. Let's work together!
+- Also open to work for an internship.
 
 ### 📫 How to reach me: ...
 - Instagram: @danielemrld
